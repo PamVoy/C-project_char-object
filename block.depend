@@ -1,0 +1,699 @@
+# depslib dependency file v1.0
+1429150766 source:d:\jyw\block\rlutil.cpp
+	"rlutil.h"
+
+1431398536 d:\jyw\block\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1434423630 source:d:\jyw\block\main.cpp
+	<iostream>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"hiddenball.h"
+	"colorball.h"
+	"bomb.h"
+
+1433215320 d:\jyw\block\board.h
+
+1433215292 source:d:\jyw\block\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1433213994 source:d:\jyw\block\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1433213994 d:\jyw\block\player.h
+	"board.h"
+
+1433819922 source:d:\jyw\block\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1433818486 d:\jyw\block\ball.h
+	"board.h"
+
+1433212459 source:d:\jyw\block\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1433215292 d:\jyw\block\colorball.h
+	"ball.h"
+
+1433212459 source:d:\jyw\block\hiddenball.cpp
+	"hiddenball.h"
+	"rlutil.h"
+
+1433215292 d:\jyw\block\hiddenball.h
+	"ball.h"
+
+1433819922 source:d:\jyw\block\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1433818486 d:\jyw\block\bomb.h
+	"ball.h"
+
+1433819922 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1433818486 c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\ball.h
+	"board.h"
+
+1433215320 c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\board.h
+
+1431398536 c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1433215292 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1433819922 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1433818486 c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\bomb.h
+	"ball.h"
+
+1433212459 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1433215292 c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\colorball.h
+	"ball.h"
+
+1433212459 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\hiddenball.cpp
+	"hiddenball.h"
+	"rlutil.h"
+
+1433215292 c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\hiddenball.h
+	"ball.h"
+
+1434424997 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\main.cpp
+	<iostream>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"hiddenball.h"
+	"colorball.h"
+	"bomb.h"
+
+1433213994 c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\player.h
+	"board.h"
+
+1545193693 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1429150766 source:c:\users\¥Û©s¾§\downloads\block_r10 (1)\block\rlutil.cpp
+	"rlutil.h"
+
+1545642661 source:c:\codeblocks\1219prot2\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1545746235 c:\codeblocks\1219prot2\ball.h
+	"board.h"
+
+1545745715 c:\codeblocks\1219prot2\board.h
+
+1545742325 c:\codeblocks\1219prot2\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1545745671 source:c:\codeblocks\1219prot2\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1545739611 source:c:\codeblocks\1219prot2\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1545742325 c:\codeblocks\1219prot2\bomb.h
+	"ball.h"
+
+1433212459 source:c:\codeblocks\1219prot2\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1545742325 c:\codeblocks\1219prot2\colorball.h
+	"ball.h"
+
+1433212459 source:c:\codeblocks\1219prot2\hiddenball.cpp
+	"hiddenball.h"
+	"rlutil.h"
+
+1545742325 c:\codeblocks\1219prot2\hiddenball.h
+	"ball.h"
+
+1545742325 source:c:\codeblocks\1219prot2\rlutil.cpp
+	"rlutil.h"
+
+1545745846 source:c:\codeblocks\1219prot2\main.cpp
+	<iostream>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"govball.h"
+	"goball.h"
+	"bomb.h"
+	<string>
+
+1545742325 c:\codeblocks\1219prot2\player.h
+	"board.h"
+	<string>
+
+1545744269 source:c:\codeblocks\1219prot2\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1545590644 c:\codeblocks\1219prot2\govball.h
+	"ball.h"
+
+1545744309 source:c:\codeblocks\1219prot2\govball.cpp
+	"govball.h"
+	"rlutil.h"
+
+1545744361 source:c:\codeblocks\1219prot2\goball.cpp
+	"goball.h"
+	"rlutil.h"
+
+1545590642 c:\codeblocks\1219prot2\goball.h
+	"ball.h"
+
+1545755679 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1545754365 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\ball.h
+	"board.h"
+
+1545689364 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\board.h
+
+1545689370 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1545804722 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1545754347 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1545689364 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\bomb.h
+	"ball.h"
+
+1545689366 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1545689366 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\colorball.h
+	"ball.h"
+
+1545689366 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\hiddenball.cpp
+	"hiddenball.h"
+	"rlutil.h"
+
+1545689366 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\hiddenball.h
+	"ball.h"
+
+1545805130 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\main.cpp
+	<iostream>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"govball.h"
+	"goball.h"
+	"bomb.h"
+	<string>
+
+1545689370 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\player.h
+	"board.h"
+	<string>
+
+1545689366 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\govball.h
+	"ball.h"
+
+1545689366 c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\goball.h
+	"ball.h"
+
+1545689368 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1545689370 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\rlutil.cpp
+	"rlutil.h"
+
+1545689366 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\goball.cpp
+	"goball.h"
+	"rlutil.h"
+
+1545689366 source:c:\users\kris hsiang\downloads\1225 oooooo\1225 ooooooooo\1219prot2\govball.cpp
+	"govball.h"
+	"rlutil.h"
+
+1545809812 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1545754365 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\ball.h
+	"board.h"
+
+1545805725 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\board.h
+
+1545689370 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1545810569 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1545809716 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1545689364 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\bomb.h
+	"ball.h"
+
+1545689366 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1545689366 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\colorball.h
+	"ball.h"
+
+1545806698 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\govball.cpp
+	"govball.h"
+	"rlutil.h"
+
+1545689366 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\govball.h
+	"ball.h"
+
+1545689366 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\hiddenball.cpp
+	"hiddenball.h"
+	"rlutil.h"
+
+1545689366 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\hiddenball.h
+	"ball.h"
+
+1545810500 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\main.cpp
+	<iostream>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"govball.h"
+	"bomb.h"
+	<string>
+
+1545689370 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\player.h
+	"board.h"
+	<string>
+
+1545689366 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\goball.h
+	"ball.h"
+
+1545689368 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1545689370 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1219prot2\rlutil.cpp
+	"rlutil.h"
+
+1545817661 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1545754365 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\ball.h
+	"board.h"
+
+1545805725 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\board.h
+
+1545689370 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1545814233 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1545817586 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1545689364 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\bomb.h
+	"ball.h"
+
+1545689366 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1545689366 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\colorball.h
+	"ball.h"
+
+1545816507 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\govball.cpp
+	"govball.h"
+	"rlutil.h"
+
+1545813951 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\govball.h
+	"ball.h"
+
+1545817778 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\main.cpp
+	<iostream>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"govball.h"
+	"bomb.h"
+	<string>
+
+1545813280 c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\player.h
+	"board.h"
+	<string>
+
+1545813641 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1545689370 source:c:\users\kris hsiang\downloads\1226\1225 ooooooooo\1226-1\rlutil.cpp
+	"rlutil.h"
+
+1546251474 source:c:\users\silver-age\desktop\20181226\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1546241502 c:\users\silver-age\desktop\20181226\ball.h
+	"board.h"
+
+1545760400 c:\users\silver-age\desktop\20181226\board.h
+
+1545760406 c:\users\silver-age\desktop\20181226\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1546249802 source:c:\users\silver-age\desktop\20181226\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1546245252 source:c:\users\silver-age\desktop\20181226\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1545760400 c:\users\silver-age\desktop\20181226\bomb.h
+	"ball.h"
+
+1546250810 source:c:\users\silver-age\desktop\20181226\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1545760402 c:\users\silver-age\desktop\20181226\colorball.h
+	"ball.h"
+
+1546244681 source:c:\users\silver-age\desktop\20181226\govball.cpp
+	"govball.h"
+	"rlutil.h"
+
+1546241252 c:\users\silver-age\desktop\20181226\govball.h
+	"ball.h"
+
+1545760404 source:c:\users\silver-age\desktop\20181226\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1545760406 c:\users\silver-age\desktop\20181226\player.h
+	"board.h"
+	<string>
+
+1545760406 source:c:\users\silver-age\desktop\20181226\rlutil.cpp
+	"rlutil.h"
+
+1546251641 source:c:\users\silver-age\desktop\20181226\main.cpp
+	<iostream>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"govball.h"
+	"colorball.h"
+	"bomb.h"
+	<string>
+
+1546318590 source:c:\users\silver-age\desktop\20181231\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1546314794 c:\users\silver-age\desktop\20181231\ball.h
+	"board.h"
+
+1545760400 c:\users\silver-age\desktop\20181231\board.h
+
+1545760406 c:\users\silver-age\desktop\20181231\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1546322480 source:c:\users\silver-age\desktop\20181231\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1546320184 source:c:\users\silver-age\desktop\20181231\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1545760400 c:\users\silver-age\desktop\20181231\bomb.h
+	"ball.h"
+
+1546320695 source:c:\users\silver-age\desktop\20181231\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1546317647 c:\users\silver-age\desktop\20181231\colorball.h
+	"ball.h"
+
+1546263157 source:c:\users\silver-age\desktop\20181231\govball.cpp
+	"govball.h"
+	"rlutil.h"
+
+1546241252 c:\users\silver-age\desktop\20181231\govball.h
+	"ball.h"
+
+1546319027 source:c:\users\silver-age\desktop\20181231\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1545760406 c:\users\silver-age\desktop\20181231\player.h
+	"board.h"
+	<string>
+
+1545760406 source:c:\users\silver-age\desktop\20181231\rlutil.cpp
+	"rlutil.h"
+
+1546322135 source:c:\users\silver-age\desktop\20181231\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"govball.h"
+	"colorball.h"
+	"runball.h"
+	"bomb.h"
+	<string>
+
+1546318836 source:c:\users\silver-age\desktop\20181231\runball.cpp
+	"runball.h"
+	"rlutil.h"
+
+1546317647 c:\users\silver-age\desktop\20181231\runball.h
+	"ball.h"
+
+1546318590 source:c:\users\silver-age\desktop\20190101\ball.cpp
+	"ball.h"
+	<cstdlib>
+	"rlutil.h"
+
+1546314794 c:\users\silver-age\desktop\20190101\ball.h
+	"board.h"
+
+1545760400 c:\users\silver-age\desktop\20190101\board.h
+
+1545760406 c:\users\silver-age\desktop\20190101\rlutil.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1546412714 source:c:\users\silver-age\desktop\20190101\board.cpp
+	"board.h"
+	"rlutil.h"
+	<cstdio>
+
+1546320184 source:c:\users\silver-age\desktop\20190101\bomb.cpp
+	"bomb.h"
+	"rlutil.h"
+
+1545760400 c:\users\silver-age\desktop\20190101\bomb.h
+	"ball.h"
+
+1546320695 source:c:\users\silver-age\desktop\20190101\colorball.cpp
+	"colorball.h"
+	"rlutil.h"
+
+1546317647 c:\users\silver-age\desktop\20190101\colorball.h
+	"ball.h"
+
+1546263157 source:c:\users\silver-age\desktop\20190101\govball.cpp
+	"govball.h"
+	"rlutil.h"
+
+1546241252 c:\users\silver-age\desktop\20190101\govball.h
+	"ball.h"
+
+1546319027 source:c:\users\silver-age\desktop\20190101\player.cpp
+	"player.h"
+	"rlutil.h"
+
+1545760406 c:\users\silver-age\desktop\20190101\player.h
+	"board.h"
+	<string>
+
+1545760406 source:c:\users\silver-age\desktop\20190101\rlutil.cpp
+	"rlutil.h"
+
+1546318836 source:c:\users\silver-age\desktop\20190101\runball.cpp
+	"runball.h"
+	"rlutil.h"
+
+1546317647 c:\users\silver-age\desktop\20190101\runball.h
+	"ball.h"
+
+1546412456 source:c:\users\silver-age\desktop\20190101\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	"board.h"
+	"player.h"
+	"rlutil.h"
+	"govball.h"
+	"colorball.h"
+	"runball.h"
+	"bomb.h"
+	<string>
+
